@@ -1,7 +1,7 @@
 import React from 'react'
 import "./about.css"
 import AboutImg from "../../assets/profile.jpg"
-import CV from "../../assets/cv.pdf"
+import CV from "../../assets/RechercheDeStage_Developpeur_Front_End.pdf"
 import Info from './Info'
 
 const About = () => {
@@ -18,8 +18,7 @@ const About = () => {
 
                 <p className="about__description">Frontend 
                 developer, I create web pages with UI / UX user
-                interface, I have years of experience with
-                website creation</p>
+                interface!</p>
 
                 <a download="" href={CV} className="button button--flex">
                     Dowload CV
