@@ -15,11 +15,11 @@ const Footer = () => {
 
             <div className="footer__social">
                 <a 
-                    href="https://www.instagram.com/jcbs__adventure/"
+                    href="https://www.linkedin.com/in/julien-jacobs-b4970b174/"
                     className='footer__social-icon'
                     target="_blank"
                 >
-                    <i className="bx bxl-instagram"></i>
+                    <i className="bx bxl-linkedin"></i>
                 </a>
 
                 <a 

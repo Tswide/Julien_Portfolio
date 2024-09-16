@@ -47,12 +47,12 @@ const Contact = () => {
                         </div>
 
                         <div className="contact__card">
-                            <i className="bx bxl-instagram contact__card-icon"></i>
+                            <i className="bx bxl-linkedin contact__card-icon"></i>
 
-                            <h3 className="contact__card-title">Instagram</h3>
-                            <span className="contact__card-data">@julien_jcbs</span>
+                            <h3 className="contact__card-title">Linkedin</h3>
+                            <span className="contact__card-data">julien jacobs</span>
 
-                            <a href="https://www.instagram.com/jcbs__adventure/" className="contact__button" target="_blank">
+                            <a href="https://www.linkedin.com/in/julien-jacobs-b4970b174/" className="contact__button" target="_blank">
                                 Write me
                                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                             </a>
